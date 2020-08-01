@@ -1,0 +1,9 @@
+function pasarTexto()
+{
+	
+}
+
+function fnConcatenar()
+{
+	
+}

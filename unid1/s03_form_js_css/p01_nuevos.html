@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>command{border: 1px solid orange;}</style>
+</head>
+<body>
+
+    <nav>
+        <ul type="a">
+          <li><a href="/es/">Inicio</a></li>
+          <li><a href="/es/tutorials.html">Tutoriales</a></li>
+          <li><a href="/es/reference.html">Referencia</a></li>
+          <li><a href="/es/tools-resources.html">Recursos</a></li>
+          <li><a href="/es/contactus.php">Contáctame</a></li>
+        </ul>
+    </nav>
+    
+    <menu>
+        <command type="radio" radiogroup="colores" checked="checked" label="Rojo" icon="rr/rojo.jpg" onclick="alert('Color rojo');">Opcion 1
+        <command type="radio" radiogroup="colores" label="Azul" icon="rr/azul.png" onclick="alert('Color Azul');">Opcion 2
+        <command type="radio" radiogroup="colores" label="Verde" icon="rr/verde.png" onclick="alert('Color Verde');" disabled="disabled">Opcion 1
+    </menu>
+
+    <progress> 
+        <span id="objprogress">25</span>% 
+    </progress>
+
+    <hgroup style="border: 1px dashed red;"> 
+        <h1>Bienvenidos a mi web</h1> 
+        <h2>La web de HTML5</h2> 
+    </hgroup>
+
+    <aside onclick="alert('Hello World')">Haz click aquí</aside>
+</body>
+</html>

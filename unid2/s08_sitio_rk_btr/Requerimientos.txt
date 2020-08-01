@@ -1,0 +1,18 @@
+Sitio web para una organizacion 
+(Empresas, Colegios, etc.)
+
+Nota:
+Para la evaluacion debe presentar la plantilla 
+original y la personalizada.
+
+Criterios de evaluacion
+1) Temas diferentes a plantilla 1 y 5 (Minimo en plantilla 5)
+2) Presentacion amigable de la plantilla 
+3) Menu y galeria de imagenes responsives(1)
+4) Video y audio con sus controles (2)
+5) Mapa de ubicacion(3) (Evidencia 1)
+6) Redes sociales
+7) Buscador
+8) Formulario para enviar datos o sugerencias(4) (Evidencia 2)
+9) Personalizacion del pie de pagina con nombre del autor
+10) Opcional
